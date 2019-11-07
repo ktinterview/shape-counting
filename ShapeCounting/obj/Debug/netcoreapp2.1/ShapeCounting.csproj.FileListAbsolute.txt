@@ -1,0 +1,9 @@
+/Users/kate/Projects/ShapeCounting/ShapeCounting/bin/Debug/netcoreapp2.1/ShapeCounting.deps.json
+/Users/kate/Projects/ShapeCounting/ShapeCounting/bin/Debug/netcoreapp2.1/ShapeCounting.runtimeconfig.json
+/Users/kate/Projects/ShapeCounting/ShapeCounting/bin/Debug/netcoreapp2.1/ShapeCounting.runtimeconfig.dev.json
+/Users/kate/Projects/ShapeCounting/ShapeCounting/bin/Debug/netcoreapp2.1/ShapeCounting.dll
+/Users/kate/Projects/ShapeCounting/ShapeCounting/bin/Debug/netcoreapp2.1/ShapeCounting.pdb
+/Users/kate/Projects/ShapeCounting/ShapeCounting/obj/Debug/netcoreapp2.1/ShapeCounting.AssemblyInfoInputs.cache
+/Users/kate/Projects/ShapeCounting/ShapeCounting/obj/Debug/netcoreapp2.1/ShapeCounting.AssemblyInfo.cs
+/Users/kate/Projects/ShapeCounting/ShapeCounting/obj/Debug/netcoreapp2.1/ShapeCounting.dll
+/Users/kate/Projects/ShapeCounting/ShapeCounting/obj/Debug/netcoreapp2.1/ShapeCounting.pdb

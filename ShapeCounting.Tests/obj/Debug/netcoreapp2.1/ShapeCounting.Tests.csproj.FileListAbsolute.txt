@@ -1,0 +1,16 @@
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/bin/Debug/netcoreapp2.1/ShapeCounting.Tests.deps.json
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/bin/Debug/netcoreapp2.1/ShapeCounting.Tests.runtimeconfig.json
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/bin/Debug/netcoreapp2.1/ShapeCounting.Tests.runtimeconfig.dev.json
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/bin/Debug/netcoreapp2.1/ShapeCounting.Tests.dll
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/bin/Debug/netcoreapp2.1/ShapeCounting.Tests.pdb
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/bin/Debug/netcoreapp2.1/ShapeCounting.dll
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/bin/Debug/netcoreapp2.1/ShapeCounting.pdb
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/obj/Debug/netcoreapp2.1/ShapeCounting.Tests.csprojAssemblyReference.cache
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/obj/Debug/netcoreapp2.1/ShapeCounting.Tests.AssemblyInfoInputs.cache
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/obj/Debug/netcoreapp2.1/ShapeCounting.Tests.AssemblyInfo.cs
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/obj/Debug/netcoreapp2.1/ShapeCounting.Tests.csproj.CopyComplete
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/obj/Debug/netcoreapp2.1/ShapeCounting.Tests.dll
+/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/obj/Debug/netcoreapp2.1/ShapeCounting.Tests.pdb

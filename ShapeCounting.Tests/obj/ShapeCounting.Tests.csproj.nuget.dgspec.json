@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/ShapeCounting.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/ShapeCounting.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/ShapeCounting.Tests.csproj",
+        "projectName": "ShapeCounting.Tests",
+        "projectPath": "/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/ShapeCounting.Tests.csproj",
+        "packagesPath": "/Users/kate/.nuget/packages/",
+        "outputPath": "/Users/kate/Projects/ShapeCounting/ShapeCounting.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kate/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/kate/Projects/ShapeCounting/ShapeCounting/ShapeCounting.csproj": {
+                "projectPath": "/Users/kate/Projects/ShapeCounting/ShapeCounting/ShapeCounting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kate/Projects/ShapeCounting/ShapeCounting/ShapeCounting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kate/Projects/ShapeCounting/ShapeCounting/ShapeCounting.csproj",
+        "projectName": "ShapeCounting",
+        "projectPath": "/Users/kate/Projects/ShapeCounting/ShapeCounting/ShapeCounting.csproj",
+        "packagesPath": "/Users/kate/.nuget/packages/",
+        "outputPath": "/Users/kate/Projects/ShapeCounting/ShapeCounting/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kate/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

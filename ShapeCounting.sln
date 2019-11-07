@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeCounting", "ShapeCounting\ShapeCounting.csproj", "{C7F309B3-41C9-4680-95F9-6794D22C477E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeCounting.Tests", "ShapeCounting.Tests\ShapeCounting.Tests.csproj", "{D7FF518B-17A8-45E2-BF1D-DD5B0D412A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7F309B3-41C9-4680-95F9-6794D22C477E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F309B3-41C9-4680-95F9-6794D22C477E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F309B3-41C9-4680-95F9-6794D22C477E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F309B3-41C9-4680-95F9-6794D22C477E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7FF518B-17A8-45E2-BF1D-DD5B0D412A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FF518B-17A8-45E2-BF1D-DD5B0D412A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FF518B-17A8-45E2-BF1D-DD5B0D412A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FF518B-17A8-45E2-BF1D-DD5B0D412A85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
